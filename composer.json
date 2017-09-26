@@ -1,0 +1,13 @@
+{
+    "name": "mawman/sprout",
+    "description": "A simple web application template",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App/"
+        }
+    },
+    "require": {
+        "mawman/seed": "^1.0"
+    }
+}
